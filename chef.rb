@@ -3,3 +3,5 @@ def stylish_chef
   return "Martha Stewart"
   "Guy Fieri"
 end
+
+best hairstyle
