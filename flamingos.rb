@@ -1,5 +1,3 @@
-def stylish_chef
-  best hairstyle = "Guy Fieri"
-  return "Martha Stewart"
-  "Guy Fieri"
+def print_one_plus_one
+  puts 1+1
 end
